@@ -1,5 +1,3 @@
-# tensorflow_keras_practice
+# Machine Learning Portfolio
 
-notebooks from practicing deep learning/AI using keras/tensorflow... 
-
-many of which from françois chollet's book
+Repository for practice machine learning and deep learning notebooks using mainly scikit-learn and tensorflow libraries
